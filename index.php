@@ -18,11 +18,11 @@ $f3 = Base::instance(); //static method
 
 // Define a default route
 $f3->route('GET /', function (){
-    echo "Pet Home";
+//    echo "Pet Home";
 
-    //Display a view page
-//    $view = new Template();
-//    echo $view->render('views/home.html');
+//    Display a view page
+    $view = new Template();
+    echo $view->render('views/home.html');
 
 });
 
