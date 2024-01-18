@@ -1,0 +1,12 @@
+{
+  "name": "jcurtiss/328/pets",
+  "authors":[
+    {
+    "name": "Joshua Curtiss",
+    "email": "curtiss.joshua@student.greenriver.edu"
+  }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
