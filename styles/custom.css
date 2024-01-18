@@ -1,0 +1,15 @@
+h1 {
+    font-weight: bold;
+    color: brown;
+}
+
+a {
+    color: black;
+    text-align:center;
+    display:block;
+    margin:auto;
+}
+
+body {
+    background: lightblue;
+}
